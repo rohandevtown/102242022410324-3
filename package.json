@@ -1,0 +1,24 @@
+{
+  "name": "102242022410324-3",
+  "version": "1.0.0",
+  "description": ">> N: NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "rohan": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohandevtown/102242022410324-3.git"
+  },
+  "author": "rohan kinnal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohandevtown/102242022410324-3/issues"
+  },
+  "homepage": "https://github.com/rohandevtown/102242022410324-3#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
